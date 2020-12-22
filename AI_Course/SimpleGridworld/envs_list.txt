@@ -1,0 +1,51 @@
+SQUARE GRID WORLD ONLY
+
+# CONSTANTS
+board_size/obstacles = 6
+actions = 4
+board_size = SHAPExSHAPE
+
+# COMPLEXITY RANK FORMULA		
+complexity_score = board_size * obstacles + board_size * actions + obstacles * actions
+complexity_rank = ln(complexity_score)
+
+# STEP REWARD FORMULA	
+step_reward = -1 / ((SHAPE-1) * 4)	
+
+#: complexity_rank =~ board_size, obstacles, actions
+1: 6 =~ 6x6, 6, 4 (step_reward= -0.05)
+2: 7 =~ 8x8, 11, 4 (step_reward= -0.036)
+3: 8 =~ 11x11, 20, 4 (step_reward= -0.025)
+4: 9 =~ 14x14, 33, 4 (step_reward= -0.019)
+5: 10 =~ 19x19 , 60, 4 (step_reward= -0.014)
+6: 11 =~ 24x24, 96, 4 (step_reward= -0.011)
+7: 12 =~ 31x31, 160, 4 (step_reward= -0.008)
+8: 13 =~ 40x40, 267, 4 (step_reward= -0.006)
+
+# HOW TO KNOW WHEN TO STOP TRAINING (FINDING GLOBAL MAXIMUM)
+Train until convergence
+
+# GRID SEARCH
+
+# PAPER STEPS
+	
+ - Abstract
+ - Introdaction
+ - Reinforcement learning 
+ - Q-Learning
+
+
+ - Grid search for learning rate
+ - show gamma performance for different values and show difference ###CHECK###
+ - TO AVOID AGENT'S INFINITY LOOP add dynamics for epsilon
+ - update reward for false maximum rewards
+
+# TO AVOID AGENT'S INFINITY LOOP
+ Assuming we'll use optimal learning rate and discount rate
+ - Use epsilon greedy method for short time
+ - negate game losing reward
+
+# TO FIND OPTIMAL LEARNING RATE
+ Assuming we'll use optimal discount rate for initial rewards and won't use epsilong greedy method
+ - Iterate 0.1 to 1 to find best learning rate and choose the learning rate with the lowest training iteration
+

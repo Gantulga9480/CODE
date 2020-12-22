@@ -1,0 +1,4 @@
+States
+- Food pos
+- 3 dir states
+- tail, empty, food

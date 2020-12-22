@@ -1,0 +1,3 @@
+Value Iteration
+- Iterate until convergence when a snake eats target or the game starts
+- Iterate 3 - 5 times when snake moves

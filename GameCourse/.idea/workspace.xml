@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82a4aef0-249c-4e19-8a55-05ff53f3518e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZyWlRFvhBBP0pOOWm3VLCwZcFu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Sudoku/SUDOKU.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Python" type="PythonConfigurationType" factoryName="Python">
+      <module name="GameCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\User\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sudoku" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sudoku/SUDOKU.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82a4aef0-249c-4e19-8a55-05ff53f3518e" name="Default Changelist" comment="" />
+      <created>1585811964429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585811964429</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1222" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589315701844">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="-1222" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1589315701844" />
+    <state x="285" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1589041077021" />
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1588875016582" />
+    <state x="453" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585948161925">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="453" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1585948161925" />
+    <state x="-903" y="123" key="FileChooserDialogImpl" timestamp="1589315700156">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="-903" y="123" key="FileChooserDialogImpl/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1589315700156" />
+    <state x="651" y="175" key="FileChooserDialogImpl/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1589041075522" />
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1588875015567" />
+    <state width="1345" height="242" key="GridCell.Tab.0.bottom" timestamp="1589319762579">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="242" key="GridCell.Tab.0.bottom/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1589319762579" />
+    <state width="1899" height="375" key="GridCell.Tab.0.bottom/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1589041647532" />
+    <state width="1345" height="572" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588875119546" />
+    <state width="1345" height="242" key="GridCell.Tab.0.center" timestamp="1589319762579">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="242" key="GridCell.Tab.0.center/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1589319762579" />
+    <state width="1899" height="375" key="GridCell.Tab.0.center/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1589041647532" />
+    <state width="1345" height="572" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588875119546" />
+    <state width="1345" height="242" key="GridCell.Tab.0.left" timestamp="1589319762578">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="242" key="GridCell.Tab.0.left/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1589319762578" />
+    <state width="1899" height="375" key="GridCell.Tab.0.left/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1589041647532" />
+    <state width="1345" height="572" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588875119546" />
+    <state width="1345" height="242" key="GridCell.Tab.0.right" timestamp="1589319762579">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="242" key="GridCell.Tab.0.right/-1366.0.1366.738/0.0.1920.1050@-1366.0.1366.738" timestamp="1589319762579" />
+    <state width="1899" height="375" key="GridCell.Tab.0.right/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1589041647532" />
+    <state width="1345" height="572" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588875119546" />
+    <state width="1345" height="227" key="GridCell.Tab.1.bottom" timestamp="1588873879435">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1899" height="351" key="GridCell.Tab.1.bottom/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1587822665594" />
+    <state width="1345" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588873879435" />
+    <state width="1345" height="227" key="GridCell.Tab.1.center" timestamp="1588873879435">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1899" height="351" key="GridCell.Tab.1.center/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1587822665594" />
+    <state width="1345" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1588873879435" />
+    <state width="1345" height="227" key="GridCell.Tab.1.left" timestamp="1588873879435">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1899" height="351" key="GridCell.Tab.1.left/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1587822665594" />
+    <state width="1345" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1588873879435" />
+    <state width="1345" height="227" key="GridCell.Tab.1.right" timestamp="1588873879435">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1899" height="351" key="GridCell.Tab.1.right/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1587822665594" />
+    <state width="1345" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1588873879435" />
+    <state x="149" y="12" width="998" height="709" key="SettingsEditor" timestamp="1588874148484">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="285" y="135" width="998" height="709" key="SettingsEditor/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1587938672506" />
+    <state x="149" y="12" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1588874148484" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1586673305254">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1586673305254" />
+    <state x="401" y="221" width="611" height="458" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1588874146010">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="401" y="221" width="611" height="458" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.738@0.0.1366.738" timestamp="1588874146010" />
+    <state x="803" y="297" key="refactoring.ChangeSignatureDialog" timestamp="1587806889386">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="803" y="297" key="refactoring.ChangeSignatureDialog/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1587806889386" />
+  </component>
+</project>
